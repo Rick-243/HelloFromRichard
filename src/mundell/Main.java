@@ -15,5 +15,7 @@ public class Main {
         String paulName = "Paul";
         System.out.printf("Hello %s, my name is %s.%n", rickName, paulName );
 
+        System.out.println("Hello Richard, my name is Clark.");
+
     }
 }
